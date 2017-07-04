@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Steuerung1 : MonoBehaviour
+public class steurerung1 : MonoBehaviour
 {
 
     public float speed = 5;
